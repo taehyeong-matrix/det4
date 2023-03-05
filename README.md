@@ -12,7 +12,7 @@ The code works in MATLAB 2022b. And the following Toolboxes of MATLAB are requir
 - Statistics and Machine Learning Toolbox
 - Parallel Computing Toolbox
 
-## Codes
+## Files
 Each code is as follows.
 
 - find_3_3.m : Finding formula of determinant of $3\times 3$ matrices based on LASSO
