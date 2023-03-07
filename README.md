@@ -31,3 +31,6 @@ Except for the "find_4_4.m" code, it worked in the following hardware environmen
 The "find_4_4.m" code ran in the following hardware environment because the "parfor" of Parallel Computing Toolbox and the "lasso" function of Statistics and Machine Learning Toolbox required a large amount of memory.
 - CPU : Xeon Gold 6242 16Core 2.8 Ghz,22MB Cache*2P
 - RAM : 192GB 3200MHz (12EA * 16GB)
+
+If you cannot run find4_4.m due to insufficient computer specifications, you can run find3_3.m to see how it works for matrices of size $4\times 4$.
+Like Derksen's formula, we can find a determinant formula consisting of five terms through find3_3.m .
